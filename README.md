@@ -6,3 +6,4 @@
 6. [节流](throttle.html) 频繁触发的事件用节流
 7. [javascript八大类型](js-type.js)
 8. [实现bind](bind.js)
+9. [原型](原型.md)
